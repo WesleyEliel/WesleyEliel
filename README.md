@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on **<a href="https://examchic.isis-ai.com" target="_blank">Examchic</a><!--, <a href="https://wuloevents.com" style="color=black;" target="_blank">Wuloevent</a>'s Backend-->**
+- 🔭 I’m currently working at **<a href="https://examchic.isis-ai.com" target="_blank">Examchic</a><!--, <a href="https://wuloevents.com" style="color=black;" target="_blank">Wuloevent</a>'s Backend-->**
 
 - 🌱 I’m Currently Learning **DevOps, System Design, Cloud Computing, Computer Vision & Machine Learning [ By Self Study]**
 
-- 🤔 I’m looking for help with **For a Master's degree in Computer Vision**
+- 🤔 I’m looking for help for **A Master's degree in Computer Vision**
 
 - 💬 Ask Me About **Python, Django, FastAPI, REST, NodeJS, VueJS, NuxtJS, Scraping**
 
@@ -61,55 +61,55 @@ Here are some ideas to get you started:
 <h2 align="center">💻 Languages and Development Tools</h2>
 
 <p style="padding-top:20px; padding-bottom:20px;" align="center">
-    <a href="https://www.python.org" target="_blank"> <img src="images/python.png" alt="python" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="images/js.png" alt="js" width="70" height="70" style="padding-rigth:20px;"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="images/python.png" alt="python" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="images/js.png" alt="js" width="50" height="50" style="padding-rigth:20px;"/> </a>
 </p>
 <p style="padding-top:20px; padding-bottom:20px;" align="center">
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="images/django.png" alt="django" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="images/dj_rest.png" alt="drf" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="images/fastapi.png" alt="fastapi" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://vuejs.org/" target="_blank"> <img src="images/vuejs.png" alt="vuejs" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://nuxt.org/" target="_blank"> <img src="images/nuxtjs.png" alt="nuxtjs" width="70" height="70" style="padding-rigth:20px;"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="images/django.png" alt="django" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="images/dj_rest.png" alt="drf" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="images/fastapi.png" alt="fastapi" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://vuejs.org/" target="_blank"> <img src="images/vuejs.png" alt="vuejs" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://nuxt.org/" target="_blank"> <img src="images/nuxtjs.png" alt="nuxtjs" width="50" height="50" style="padding-rigth:20px;"/> </a>
 </p>
 <p style="padding-top:20px; padding-bottom:20px;" align="center">
-    <a href="https://selenium-python.readthedocs.io/ " target="_blank"> <img src="images/selenium.png" alt="selenium" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank"> <img src="images/beautifulsoup.png" alt="beautifulsoup" width="70" height="70" style="padding-rigth:20px;"/> </a>
+    <a href="https://selenium-python.readthedocs.io/ " target="_blank"> <img src="images/selenium.png" alt="selenium" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank"> <img src="images/beautifulsoup.png" alt="beautifulsoup" width="50" height="50" style="padding-rigth:20px;"/> </a>
 </p>
 <p style="padding-top:20px; padding-bottom:20px;" align="center">
-    <a href="https://www.postgresql.org" target="_blank"> <img src="images/postgresql.png" alt="postgresql" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="images/mongo_db.png" alt="mongodb" width="70" height="70" style="padding-rigth:20px;"/> </a>
+    <a href="https://www.postgresql.org" target="_blank"> <img src="images/postgresql.png" alt="postgresql" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="images/mongo_db.png" alt="mongodb" width="50" height="50" style="padding-rigth:20px;"/> </a>
 </p>
 <p style="padding-top:20px; padding-bottom:20px;" align="center">
-    <a href="https://docs.celeryproject.org/en/stable/" target="_blank"> <img src="images/celery.png" alt="celery" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://kafka.apache.org/" target="_blank"> <img src="images/kafka.png" alt="kafka" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://redis.io" target="_blank"> <img src="images/redis.png" alt="redis" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://www.elastic.co/" target="_blank"> <img src="images/elasticsearch.png" alt="redis" width="70" height="70" style="padding-rigth:20px;"/> </a>
+    <a href="https://docs.celeryproject.org/en/stable/" target="_blank"> <img src="images/celery.png" alt="celery" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://kafka.apache.org/" target="_blank"> <img src="images/kafka.png" alt="kafka" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://redis.io" target="_blank"> <img src="images/redis.png" alt="redis" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://www.elastic.co/" target="_blank"> <img src="images/elasticsearch.png" alt="redis" width="50" height="50" style="padding-rigth:20px;"/> </a>
 </p>
 <p style="padding-top:20px; padding-bottom:20px;" align="center">
-    <a href="https://www.linux.org/" target="_blank"> <img src="images/linux.png" alt="linux" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="images/bash.png" alt="bash" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://www.nginx.com" target="_blank"> <img src="images/nginx.png" alt="nginx" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://gunicorn.org/" target="_blank"> <img src="images/gunicorn.png" alt="gunicorn" width="70" height="70" style="padding-rigth:20px;"/> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="images/linux.png" alt="linux" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="images/bash.png" alt="bash" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://www.nginx.com" target="_blank"> <img src="images/nginx.png" alt="nginx" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://gunicorn.org/" target="_blank"> <img src="images/gunicorn.png" alt="gunicorn" width="50" height="50" style="padding-rigth:20px;"/> </a>
 </p>
 <p style="padding-top:20px; padding-bottom:20px;" align="center">
-    <a href="https://postman.com" target="_blank"> <img src="images/postman.png" alt="postman" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://swagger.io/" target="_blank"> <img src="images/swagger.png" alt="swagger" width="70" height="70" style="padding-rigth:20px;"/> </a>
+    <a href="https://postman.com" target="_blank"> <img src="images/postman.png" alt="postman" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://swagger.io/" target="_blank"> <img src="images/swagger.png" alt="swagger" width="50" height="50" style="padding-rigth:20px;"/> </a>
 </p>
 <p style="padding-top:20px; padding-bottom:20px;" align="center">
-    <a href="https://www.docker.com/" target="_blank"> <img src="images/docker.png" alt="docker" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://kubernetes.io" target="_blank"> <img src="images/kubernetes.png" alt="kubernetes" width="70" height="70" style="padding-rigth:20px;"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="images/docker.png" alt="docker" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://kubernetes.io" target="_blank"> <img src="images/kubernetes.png" alt="kubernetes" width="50" height="50" style="padding-rigth:20px;"/> </a>
 </p>
 <p style="padding-top:20px; padding-bottom:20px;" align="center">
-    <a href="https://heroku.com" target="_blank"> <img src="images/heroku.png" alt="heroku" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://aws.amazon.com" target="_blank"> <img src="images/aws.png" alt="aws" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://cloud.google.com" target="_blank"> <img src="images/google_cloud.png" alt="gcp" width="70" height="70" style="padding-rigth:20px;"/> </a>
+    <a href="https://heroku.com" target="_blank"> <img src="images/heroku.png" alt="heroku" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://aws.amazon.com" target="_blank"> <img src="images/aws.png" alt="aws" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://cloud.google.com" target="_blank"> <img src="images/google_cloud.png" alt="gcp" width="50" height="50" style="padding-rigth:20px;"/> </a>
 </p>
 <p style="padding-top:20px; padding-bottom:20px;" align="center">
-    <a href="https://jupyter.org/" target="_blank"> <img src="images/jupyter.png" alt="jupyter" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank"> <img src="images/pandas.png" alt="pandas" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://opencv.org/" target="_blank"> <img src="images/opencv.png" alt="opencv" width="70" height="70" style="padding-rigth:20px;"/> </a>
+    <a href="https://jupyter.org/" target="_blank"> <img src="images/jupyter.png" alt="jupyter" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://pandas.pydata.org/" target="_blank"> <img src="images/pandas.png" alt="pandas" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://opencv.org/" target="_blank"> <img src="images/opencv.png" alt="opencv" width="50" height="50" style="padding-rigth:20px;"/> </a>
 </p>
 
 <h1 align="center"></h1>
@@ -117,9 +117,9 @@ Here are some ideas to get you started:
 <h2 align="center">👨‍💻 Currently Learning</h2>
 
 <p style="padding-top:20px; padding-bottom:20px;" align="center">
-    <a href="https://react.dev/" target="_blank"> <img src="images/reactjs.png" alt="reactjs" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://reacnative.dev/" target="_blank"> <img src="images/reactnativejs.png" alt="reactnativejs" width="70" height="70" style="padding-rigth:20px;"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="images/expressjs.png" alt="expressjs" width="70" height="70" style="padding-rigth:20px;"/> </a>
+    <a href="https://react.dev/" target="_blank"> <img src="images/reactjs.png" alt="reactjs" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://reacnative.dev/" target="_blank"> <img src="images/reactnativejs.png" alt="reactnativejs" width="50" height="50" style="padding-rigth:20px;"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="images/expressjs.png" alt="expressjs" width="50" height="50" style="padding-rigth:20px;"/> </a>
 </p>
 
 <h1 align="center"></h1>
